@@ -4,7 +4,7 @@
 </p>
 
 <!-- Social Networks -->
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Jesus-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-henrique-campos-de-araujo-083606174/)](https://www.linkedin.com/in/vinicius-henrique-campos-de-araujo-083606174/)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Henrique-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-henrique-campos-de-araujo-083606174/)](https://www.linkedin.com/in/vinicius-henrique-campos-de-araujo-083606174/)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Mateus%20Jesus-4fc65a?style=social-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5588988856584&text=Olá,+tudo+bem?&source=&data=&app_absent=)](https://api.whatsapp.com/send?phone=+5588988856584&text=Olá,+tudo+bem?&source=&data=&app_absent=)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-mateusj.dev-ec544c?style=social-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusj.dev/)](https://www.instagram.com/mateusj.dev/)&nbsp;
 [![Twitter Badge](https://img.shields.io/twitter/url?label=MtsJ3sus&style=social&url=https%3A%2F%2Ftwitter.com%2FMtsJ3sus)](https://twitter.com/MtsJ3sus)&nbsp;
