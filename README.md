@@ -1,7 +1,7 @@
-<!-- Cover -->
+<!-- Cover -
 <p align="center">
 	<img src="./assets/cover.gif" alt="cover" title="Mateus Jesus" style="border-radius: 15px; box-shadow: 10px 10px 10px 10px rgba(0,0,0, .5);">
-</p>
+</p>->
 
 <!-- Social Networks -->
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Henrique-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-henrique-campos-de-araujo-083606174/)](https://www.linkedin.com/in/vinicius-henrique-campos-de-araujo-083606174/)&nbsp;
